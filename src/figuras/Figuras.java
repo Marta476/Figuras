@@ -7,11 +7,11 @@ package figuras;
 public class Figuras {
 
     /**
-     * Creación de la 
+     * Creación de la clase figuras
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola que tal");
     }
     
 }
