@@ -30,10 +30,10 @@ public class Circulo {
     }
     
     public double CalcularArea(){
-        return pi*radio*radio;
+        return 3.1415*radio*radio;
     }
 
     public double calcularPerimetro(){
-        return 2*pi*radio;
+        return 2*3.1415*radio;
     }
 }
